@@ -14,7 +14,6 @@ public class Character {
         this.experiencePoints = 0;
         this.healthPoints = 10;
     }
-    // The game character has the following levels (represented as states of the State DP): novice, intermediate, expert, and master.
 
 
     public State getLevel() {
